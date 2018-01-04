@@ -8,6 +8,7 @@ public class Variable {
 		int engScore = 100;
 		int mathScore = 88;
 		int totalGoodsPrice = 111111;
+		
 		System.out.println(age);
 		System.out.print(age);
 		System.out.println(age);

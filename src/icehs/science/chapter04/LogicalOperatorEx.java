@@ -12,11 +12,11 @@ public class LogicalOperatorEx {
 		boolean result3 = (number1 <= number2) || (number1 != number2);
 		boolean result4 = (number1 <= number2) || !(number1 > number2);
 		
-		System.out.println( result1 );
-		System.out.println( result2 );
-		System.out.println( result3 );
-		System.out.println( result4 );
-		System.out.println( !result4 );
+		System.out.println(result1);
+		System.out.println(result2);
+		System.out.println(result3);
+		System.out.println(result4);
+		System.out.println(!result4);
 
 	}
 

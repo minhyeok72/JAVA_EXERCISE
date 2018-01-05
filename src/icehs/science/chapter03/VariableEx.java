@@ -11,9 +11,9 @@ public class VariableEx {
 		bornMonth = 6;
 		int bornDay = 20;
 		
-		System.out.println( bornYear );
-		System.out.println( bornMonth );
-		System.out.println( bornDay );
+		System.out.println(bornYear);
+		System.out.println(bornMonth);
+		System.out.println(bornDay);
 
 	}
 

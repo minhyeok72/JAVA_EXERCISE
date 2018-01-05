@@ -7,7 +7,7 @@ public class AutoCastingEx {
 		long longNumber = (long)number;
 		int intNumber = (int)longNumber;
 		
-		System.out.println(number );
+		System.out.println(number);
 		System.out.println(longNumber);
 		System.out.println(intNumber);
 		

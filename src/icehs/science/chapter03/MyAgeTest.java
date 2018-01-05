@@ -9,8 +9,8 @@ public class MyAgeTest {
 		int age;
 		age = 19;
 		
-		System.out.println( bornYear );
-		System.out.println( age );
+		System.out.println(bornYear);
+		System.out.println(age);
 
 	}
 
